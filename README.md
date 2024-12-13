@@ -11,6 +11,6 @@ Jinja tagging operations:
 
 3)Url Navigation             --  (project11,12)  
 
-4)Static Connections         --  (project13)
+4)Static Connections         --  (project13,14)
 
-5)Template Inheritance       --  (project14)
+5)Template Inheritance       --  (project)
